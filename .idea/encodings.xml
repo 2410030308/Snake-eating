@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/贪吃蛇/DrawView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/贪吃蛇/GameControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/贪吃蛇/GameRunThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/贪吃蛇/Node.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/贪吃蛇/Snake.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/贪吃蛇/SnakeGameView.java" charset="UTF-8" />
+  </component>
+</project>
